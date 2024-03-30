@@ -1,8 +1,9 @@
-Read me file.
+#include <iostream>
+#include <Window.h>
 
 int main()
 {
-	std::cout << "Hello, George Honeywell!" << std::endl;
-
-	return 0;
+   std::cout << "Application Started..." << std::endl;
+   
+   return 0;
 }
